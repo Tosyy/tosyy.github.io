@@ -11,4 +11,4 @@ Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us and are controlled by third parties. Therefore, we strongly advise you to review the Privacy Policy and TOS of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services that you access through our service.
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at https://discord.gg/FVqbtGu .
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at https://discord.gg/KX7xw2ZcSz.
