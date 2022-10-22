@@ -49,7 +49,7 @@ Its that easy.
 ## 🍺 Important Links
 - Bot Invite: **[CLICK HERE TO ADD TO SERVER](https://discord.com/api/oauth2/authorize?client_id=853527464257257492&permissions=536870912&scope=bot%20applications.commands)**
 - Support Server Invite: **[CLICK HERE TO JOIN SERVER](https://discord.gg/PkGsZRCaFU)**
-- [Terms of Service](https://anonymity-bot.github.io/ToS.html)
+- [Terms of Service](https://tosyy.github.io/ToS.html)
 - [Privacy Policy](https://anonymity-bot.github.io/PP.html)
 <br>
 <br>
